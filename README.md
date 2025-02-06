@@ -18,7 +18,7 @@ Welcome to the SQL Class Assignment! This repository contains two files:
 
 # How to Use This Repository
 ## Step 1: Download the Files
-- Click on the AdventureWorksDB.bak file and select Download.
+- Click on the [AdventureWorksDB.bak file](https://drive.google.com/file/d/18spWji6pcRVclRdZZD7hIWBJ7tROiXXy/view?usp=sharing) and select Download.
 - Click on SQL_Assignment_Instructions.pdf and download it.
 
 ## Step 2: Restore the Database in SQL Server
