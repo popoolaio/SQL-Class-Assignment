@@ -2,12 +2,6 @@
 This repository contains the AdventureWorks database backup and SQL assignment instructions for trainees in the use of SQL for Data Analytics.
 
 
-# Table of Contents
-
-1. [Overview](#Overview)
-2. [How to Use This Repository](#How to Use This Repository)
-   
-
 # Overview
 
 Welcome to the SQL Class Assignment! This repository contains two files:
