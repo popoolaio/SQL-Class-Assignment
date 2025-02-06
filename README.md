@@ -34,3 +34,5 @@ Welcome to the SQL Class Assignment! This repository contains two files:
 - Open the SQL_Assignment_Instructions.pdf file.
 - Follow the instructions to complete the SQL queries and tasks.
 - Test your queries using the restored AdventureWorks database.
+- Submit your answer (SQL Query file) by uploading it to the dedicated online storage, as indicated in the instruction document.
+- Good luck.
