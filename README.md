@@ -22,7 +22,7 @@ Welcome to the SQL Class Assignment! This repository contains two files:
 - Click on [SQL_Assignment_Instructions.pdf](https://github.com/popoolaio/SQL-Class-Assignment/blob/main/SQL_Assignment_Instructions.pdf) and download it.
 
 ## Step 2: Restore the Database in SQL Server
-- Copy the AdventureWorksDB.bak** file and drop it inside a folder named **Backup** by following this sequence: Double Click your **Local Disk** > **Program Files** > **Microsoft SQL Server** > **MSSQL16.MSSQLSERVER or MSSQL22.MSSQLSERVER** > **MSSQL** > **Backup**. The sequence is the same as ***C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\Backup***
+- Copy the **AdventureWorksDB.bak** file and drop it inside a folder named **Backup** by following this sequence: Double Click your **Local Disk** > **Program Files** > **Microsoft SQL Server** > **MSSQL16.MSSQLSERVER or MSSQL22.MSSQLSERVER** > **MSSQL** > **Backup**. The sequence is the same as ***C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\Backup***
 - Open SQL Server Management Studio (SSMS).
 - Connect to your SQL Server instance.
 - Right-click on **Databases** and select **Restore Database**.
