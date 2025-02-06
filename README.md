@@ -4,8 +4,8 @@ This repository contains the AdventureWorks database backup and SQL assignment i
 
 # Table of Contents
 
-1. [Overview] (#Overview)
-2. [How to Use This Repository] (How to Use This Repository)
+1. [Overview](#Overview)
+2. [How to Use This Repository](#How to Use This Repository)
    
 
 # Overview
