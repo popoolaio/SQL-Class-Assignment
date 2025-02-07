@@ -1,6 +1,7 @@
 # SQL CLASS ASSIGNMENT
 This repository contains the AdventureWorks database backup and SQL assignment instructions for trainees in the use of SQL for Data Analytics.
 
+---
 
 # Overview
 
@@ -9,6 +10,7 @@ Welcome to the SQL Class Assignment! This repository contains two files:
 1. **AdventureWorks Database Backup** (AdventureWorksDB.bak) – A sample database used for SQL exercises.
 2. **Assignment Instructions** (SQL_Assignment_Instructions.pdf) – A document detailing the tasks you need to complete.
 
+---
 
 # Introduction to the AdventureWorks Database
 The AdventureWorks 2017 database is a sample database provided by Microsoft, designed to showcase the capabilities of SQL Server and related technologies. It simulates a fictional bicycle manufacturing company called Adventure Works Cycles, and contains data related to product management, sales, purchasing, employees, and more.
@@ -25,6 +27,7 @@ The database is composed of multiple schemas and tables, each representing diffe
 
 - **HumanResources:** Employee information, job roles, departments, and pay history.
 
+---
 
 # How to Use This Repository
 ## Step 1: Download the Files
