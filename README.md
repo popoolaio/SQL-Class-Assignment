@@ -36,13 +36,13 @@ The database is composed of multiple schemas and tables, each representing diffe
 - Open SQL Server Management Studio (SSMS).
 - Connect to your SQL Server instance.
 - Right-click on **Databases** in Object Explorer and select **Restore Database**... to launch the Restore Database wizard.
-  ![SQL Server](https://github.com/popoolaio/SQL-Class-Assignment/blob/main/restore-db-ssms.png)
+  ![SQL Server](https://github.com/popoolaio/SQL-Class-Assignment/blob/main/Screenshots/restore-db-ssms.png)
 
 - Select **Device** and then click ellipses **(...)** to choose a device.
 - Select **Add** and then choose the **AdventureWorksDB.bak** file you recently moved to the backup location.
 - Select **OK** to confirm your database backup selection and close the Select backup devices window.
 
-![Backup File](https://github.com/popoolaio/SQL-Class-Assignment/blob/main/restore-db-wizard-ssms.png)
+![Backup File](https://github.com/popoolaio/SQL-Class-Assignment/blob/main/Screenshots/restore-db-wizard-ssms.png)
 - Check the Files tab to confirm the Restore as location and file names match your intended location and file names in the Restore Database wizard.
 - Click **OK** to restore the database successfully.
 
